@@ -1,0 +1,26 @@
+_repo: Baby-Land_50509
+contributor:
+  creator:
+    editor:
+      agent_name: Frink, Olive Bacon
+      gutenberg_agent_id: '45949'
+      url: http://www.gutenberg.org/2009/agents/45949
+creator:
+  authors:
+  - agent_name: Wild-Bird
+    gutenberg_agent_id: '45948'
+    url: http://www.gutenberg.org/2009/agents/45948
+  - agent_name: Frink, Mrs. Almira L. Corey
+    gutenberg_agent_id: '45947'
+    url: http://www.gutenberg.org/2009/agents/45947
+description: ''
+gutenberg_issued: '2015-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50509'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Baby-Land
+url: http://www.gutenberg.org/ebooks/50509
