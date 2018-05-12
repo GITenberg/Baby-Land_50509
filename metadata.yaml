@@ -1,10 +1,14 @@
 _repo: Baby-Land_50509
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Frink, Olive Bacon
       gutenberg_agent_id: '45949'
       url: http://www.gutenberg.org/2009/agents/45949
+covers:
+- cover_type: archival
+  image_path: 50509-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Wild-Bird
@@ -14,6 +18,8 @@ creator:
     gutenberg_agent_id: '45947'
     url: http://www.gutenberg.org/2009/agents/45947
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50509#Baby-Land
 gutenberg_issued: '2015-11-20'
 gutenberg_type: Text
 identifiers:
